@@ -1,7 +1,3 @@
-Voici une version plus courte et propre :
-
----
-
 # Agentic RAG & Workflow Automation with LangGraph
 
 ##  Description
@@ -25,5 +21,3 @@ langgraph dev
 ##  Technologies
 
 LangChain • LangGraph • ChromaDB • Python
-
----
